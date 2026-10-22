@@ -13,6 +13,23 @@
 - **开源状态**：标注「已开源」的项目可直接访问仓库；其余工程含硬件私有依赖或第三方平台凭据，需要时会整理后单独开源。
 - **维护方式**：新项目完成后追加一节，同步更新末尾的快速索引表。
 
+### 已开源的代码仓库
+
+| 仓库 | 内容 | 主要技术 |
+| :--- | :--- | :--- |
+| [smart-component-inventory](https://github.com/caihong-hadden/smart-component-inventory) | 智能元器件库存与 BOM 配单系统 | React · TypeScript · FastAPI · SQLite |
+| [token-cat-nest](https://github.com/caihong-hadden/token-cat-nest) | 3D 猫咪互动社区 | React · Three.js · Cloudflare D1/R2 |
+| [smart-lyrics-generator](https://github.com/caihong-hadden/smart-lyrics-generator) | 歌词逐句打轴与双向联动播放器 | Whisper · Python · Web |
+| [tc264-gesture-car](https://github.com/caihong-hadden/tc264-gesture-car) | 手势控制小车核心模块 | AURIX TC264 · I2C · 串级 PID |
+| [windows-drive-migration](https://github.com/caihong-hadden/windows-drive-migration) | 系统盘无损迁移套件 | PowerShell · NTFS Junction |
+| [local-vision-api](https://github.com/caihong-hadden/local-vision-api) | 本地多模态视觉服务 | Python · HTTP · 视频抽帧 |
+| [docx-quiz-parser](https://github.com/caihong-hadden/docx-quiz-parser) | Word 题库解析与刷题页 | Python · 原生 JS |
+| [word-machine](https://github.com/caihong-hadden/word-machine) | 桌面背单词机 | Python · SQLite |
+| [dot-matrix-debugger](https://github.com/caihong-hadden/dot-matrix-debugger) | 点阵屏取模工具 | 单文件 HTML/JS |
+| [cet4-diagnostic](https://github.com/caihong-hadden/cet4-diagnostic) | 四级分维度诊断单页 | 单文件 HTML |
+
+> 其余工程（嵌入式实验库、视频渲染管线、桌面自动化等）在陆续整理开源中，代码需先做依赖裁剪与脱敏。
+
 ---
 
 ## 零、快速索引（10 个代表作）
